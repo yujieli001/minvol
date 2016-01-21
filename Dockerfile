@@ -1,3 +1,3 @@
 FROM scratch
-ADD bin/helloworld /helloworld
-CMD ["/helloworld"]
+ADD /go/bin/minvol /minvol
+CMD ["/minvol"]
