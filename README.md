@@ -1,4 +1,4 @@
-helloworld
+Docker最小卷
 ==========
 
 Create Docker image FROM scratch
