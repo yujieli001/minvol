@@ -1,3 +1,3 @@
 FROM scratch
-ADD go/bin/minvol /minvol
+ADD bin/minvol /minvol
 CMD ["/minvol"]
